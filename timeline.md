@@ -64,3 +64,54 @@
 | **May 14**     | Tue     | **DSA**: Final Weak Areas - 4 problems                                            | Striver’s Sheet                            |
 | **May 15**     | Wed     | **Review Day**: All Topics (DSA, SQL, System Design)                              | Notes/Previous problems                    |
 
+### Mid-May - June - July 1 Timetable (May 16 - July 1)
+
+| **Date**       | **Day** | **Topics & Tasks**                                                                 | **Resources**                              |
+|----------------|---------|-----------------------------------------------------------------------------------|--------------------------------------------|
+| **May 16**     | Thu     | **DSA**: Advanced Trees (AVL, Segment Trees) - 3 problems                         | Striver’s Sheet                            |
+| **May 17**     | Fri     | **DSA**: Advanced Graphs (Bipartite, Floyd-Warshall) - 3 problems                | Striver’s Sheet                            |
+| **May 18**     | Sat     | **SQL**: LeetCode Hard Problems (5)                                               | LeetCode SQL                               |
+| **May 19**     | Sun     | **System Design**: Real-world Design (Instagram clone) - Full mock                | Grokking System Design                     |
+| **May 20**     | Mon     | **DSA**: Advanced DP (State Machine, Bitmask DP) - 3 problems                     | Striver’s Sheet                            |
+| **May 21**     | Tue     | **DSA**: Sliding Window & Two Pointers - 4 problems                               | Striver’s Sheet                            |
+| **May 22**     | Wed     | **DSA**: Review Advanced Trees/Graphs - Revisit weak areas                        | Previous problems                          |
+| **May 23**     | Thu     | **Mock Interview**: DSA (3 problems) + Feedback                                   | Pramp/LeetCode                             |
+| **May 24**     | Fri     | **System Design**: Database Sharding, Replication - Study + 1 design              | Designing Data-Intensive Applications      |
+| **May 25**     | Sat     | **SQL**: Query Optimization, Execution Plans - 3 problems                         | LeetCode SQL                               |
+| **May 26**     | Sun     | **System Design**: Distributed Messaging (Kafka) - Study + 1 design               | Grokking System Design                     |
+| **May 27**     | Mon     | **DSA**: Bit Manipulation & Math Puzzles - 4 problems                             | Striver’s Sheet                            |
+| **May 28**     | Tue     | **DSA**: Interval Problems (Merge, Insert) - 3 problems                           | Striver’s Sheet                            |
+| **May 29**     | Wed     | **DSA**: Review Advanced DP & Bit Manipulation - 2 problems each                  | Previous problems                          |
+| **May 30**     | Thu     | **Mock Interview**: DSA + System Design (2 problems + 1 design)                   | Pramp                                      |
+| **May 31**     | Fri     | **Resume**: Final polish + Mock ATS check                                         | Google Resume Guide                        |
+| **June 1**     | Sat     | **SQL**: Final Mock Interview (3 Hard problems)                                   | LeetCode SQL                               |
+| **June 2**     | Sun     | **System Design**: Full Mock (Twitter trends)                                     | Grokking System Design                     |
+| **June 3**     | Mon     | **DSA**: Google Tagged Problems (4)                                               | LeetCode Google Tag                        |
+| **June 4**     | Tue     | **DSA**: Google Tagged Problems (4)                                               | LeetCode Google Tag                        |
+| **June 5**     | Wed     | **DSA**: Google Tagged Problems (4)                                               | LeetCode Google Tag                        |
+| **June 6**     | Thu     | **Mock Interview**: Full Loop (DSA + System Design + Behavioral)                  | Interviewing.io                            |
+| **June 7**     | Fri     | **Review Day**: Revisit all DSA weak areas (4 problems)                           | Striver’s Sheet                            |
+| **June 8**     | Sat     | **System Design**: Full Mock (Search Autocomplete)                                | Grokking System Design                     |
+| **June 9**     | Sun     | **Networking**: Follow-ups + Schedule 2 more calls                                | LinkedIn                                   |
+| **June 10**    | Mon     | **DSA**: Mock Interview (3 problems) + Review                                     | Pramp                                      |
+| **June 11**    | Tue     | **DSA**: Mock Interview (3 problems) + Review                                     | Pramp                                      |
+| **June 12**    | Wed     | **System Design**: Full Mock (Payment System)                                     | Grokking System Design                     |
+| **June 13**    | Thu     | **DSA**: Final Google Tagged Problems (4)                                         | LeetCode Google Tag                        |
+| **June 14**    | Fri     | **Review Day**: SQL + System Design Concepts                                      | Notes/Previous problems                    |
+| **June 15**    | Sat     | **Mock Interview**: Full Loop (DSA + System Design)                               | Interviewing.io                            |
+| **June 16**    | Sun     | **Review Day**: Behavioral Questions + STAR Method                                | "Cracking the PM Interview"                |
+| **June 17**    | Mon     | **DSA**: Speed Practice (4 problems in 2 hours)                                   | LeetCode                                   |
+| **June 18**    | Tue     | **DSA**: Speed Practice (4 problems in 2 hours)                                   | LeetCode                                   |
+| **June 19**    | Wed     | **System Design**: Full Mock (YouTube)                                            | Grokking System Design                     |
+| **June 20**    | Thu     | **Mock Interview**: Full Loop (DSA + System Design)                               | Pramp                                      |
+| **June 21**    | Fri     | **Review Day**: All Topics (Focus on weak points)                                 | Notes/Previous problems                    |
+| **June 22**    | Sat     | **Mock Interview**: Final DSA Round (4 problems)                                  | Interviewing.io                            |
+| **June 23**    | Sun     | **Mock Interview**: Final System Design (2 designs)                               | Grokking System Design                     |
+| **June 24**    | Mon     | **Resume/Networking**: Finalize referrals + Apply to Google roles                 | Google Careers Portal                      |
+| **June 25**    | Tue     | **Rest Day**: Light revision (2 hours)                                            | Notes                                      |
+| **June 26**    | Wed     | **Mock Interview**: Final Full Loop                                               | Interviewing.io                            |
+| **June 27**    | Thu     | **Review Day**: Behavioral + STAR Answers                                         | "Cracking the PM Interview"                |
+| **June 28**    | Fri     | **Light Practice**: 2 DSA problems + 1 SQL                                        | LeetCode                                   |
+| **June 29**    | Sat     | **Rest Day**: Mental Prep + Strategy                                              | N/A                                        |
+| **June 30**    | Sun     | **Final Review**: Key DSA patterns, System Design cheat sheets                   | Notes                                      |
+| **July 1**     | Mon     | **Interview Day**                                                                 | N/A                                        |
